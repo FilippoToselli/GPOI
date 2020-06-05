@@ -1,0 +1,8 @@
+Manuale per l'utilizzo del sito
+
+1) Avviare il server flask tramite il vostro IDE.
+
+2) Dal browser collegarsi all'ip e porta che appaiono scritte dopo aver iniziato l'esecuzione del server.
+(nel nostro caso era 127.0.0.1:5000, dovrebbe essere qualcosa di simile per tutti)
+
+3) Se vi appare la pagina principale del nostro sito avete eseguito ogni passaggio correttamente e potete navigare liberamente.
